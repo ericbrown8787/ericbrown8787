@@ -7,6 +7,8 @@ with computers, and now I'm back in school learning IT support.
 
 It's been a trip.
 
+---
+
 ### :grey_question:	 About Me
 * :student: I'm working towards a certificate in Computer Support, and I plan on taking the CompTIA A+ and Network+ exams within the next year. 
 * 👷 Right now, I work on fire alarms, security systems and home automation for a low voltage contractor. 
