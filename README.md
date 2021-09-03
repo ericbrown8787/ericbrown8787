@@ -1,12 +1,12 @@
 
-### Hi, my name's Eric.
+### :smiley_cat: Hi, my name's Eric.
 I graduated from Rutgers in 2014 with an English degree, got a job
 as a low-voltage electrical technician, realized my favorite part of the job was working
 with computers, and now I'm back in school learning IT support. 
 
 It's been a trip.
 
-### About Me
+### :grey_question:	 About Me
 * :student: I'm working towards a certificate in Computer Support, and I plan on taking the CompTIA A+ and Network+ exams within the next year. 
 * 👷 Right now, I work on fire alarms, security systems and home automation for a low voltage contractor. 
 * :european_castle: I do medieval reenactment. We build catapults and stuff. 
