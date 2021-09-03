@@ -3,9 +3,7 @@
 Hi, my name's Eric.
 I graduated from Rutgers in 2014 with an English degree, got a job
 as a low-voltage electrical technician, realized my favorite part of the job was working
-with computers, and now I'm back in school learning IT support. 
-
-It's been a trip.
+with computers, and now I'm back in school learning IT support. It's been a trip.
 
 ---
 
