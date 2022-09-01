@@ -13,10 +13,7 @@ const me = {
     town: "Somerset",
     state: "New Jersey",
   }
-};
-```
-
-Hi, my name's Eric. I'm a student at Raritan Valley Community College learning web development.
+}
 
 ---
 
@@ -45,7 +42,7 @@ Hi, my name's Eric. I'm a student at Raritan Valley Community College learning w
 
 ### What I'm up to right now:
 
-- Interface Design and Web Development at RVCC
+- Interface Design and Web Development A.A.S. at Raritan Valley Community College
 
 - [The Odin Project](https://www.theodinproject.com/)
 
