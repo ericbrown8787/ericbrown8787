@@ -1,5 +1,6 @@
 ![Banner Image](https://user-images.githubusercontent.com/90017825/150698770-a790f26e-d9e9-4d73-b2f6-27fdbf7fb506.png)
 
+---
 
 ### 🧙 About
 
@@ -39,6 +40,15 @@ Hi, my name's Eric. I'm a student at Raritan Valley Community College learning w
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### What I'm up to right now:
+
+- Interface Design and Web Development at RVCC
+
+- [The Odin Project](https://www.theodinproject.com/)
+
 ---
 
 ### 🔮 Stats:
@@ -51,7 +61,7 @@ Hi, my name's Eric. I'm a student at Raritan Valley Community College learning w
 
 ### 🐇 Find Me Elsewhere:
 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ericbrown8787)
+- [My CodePen](https://codepen.io/ericbrown8787)
 
-Take a look at my [Style Stage](https://stylestage.dev/styles/atomic-clock/) submission!
+- Take a look at my [Style Stage](https://stylestage.dev/styles/atomic-clock/) submission!
 
