@@ -11,11 +11,11 @@ const me = {
   location: {
     town: "Somerset",
     state: "New Jersey",
-  },
+  }
 };
 ```
 
-I'm a student at Raritan Valley Community College learning web development. I'm also working on [The Odin Project](https://www.theodinproject.com/).
+Hi, my name's Eric. I'm a student at Raritan Valley Community College learning web development.
 
 ---
 
@@ -32,7 +32,7 @@ I'm a student at Raritan Valley Community College learning web development. I'm 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-I want to learn more about:
+#### I want to learn more about:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -52,3 +52,6 @@ I want to learn more about:
 ### 🐇 Find Me Elsewhere:
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ericbrown8787)
+
+Take a look at my [Style Stage](https://stylestage.dev/styles/atomic-clock/) submission!
+
