@@ -2,7 +2,7 @@
 
 ---
 
-### 🧙 About
+### 🧙 About Me: 
 
 ```javascript
 const me = {
@@ -11,7 +11,7 @@ const me = {
   pronouns: ["he/him", "they/them"],
   location: {
     town: "Somerset",
-    state: "New Jersey",
+    state: "New Jersey"
   }
 }
 ```
@@ -40,7 +40,7 @@ const me = {
 
 ---
 
-### What I'm up to right now:
+### :calendar: What I'm up to right now:
 
 - Interface Design and Web Development A.A.S. at Raritan Valley Community College
 
