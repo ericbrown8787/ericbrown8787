@@ -44,9 +44,9 @@ const me = {
 
 - Interface Design and Web Development A.A.S. at Raritan Valley Community College
 
-- [The Odin Project](https://www.theodinproject.com/)
+- 3D Printing
 
-- Tinkering with Express
+- [The Odin Project](https://www.theodinproject.com/)
 
 ---
 
