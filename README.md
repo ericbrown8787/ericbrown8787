@@ -7,7 +7,7 @@
 ```javascript
 const me = {
   goesBy: "Eric",
-  age: 30,
+  age: 31,
   pronouns: ["he/him", "they/them"],
   location: {
     town: "Somerset",
