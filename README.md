@@ -7,7 +7,7 @@
 ```javascript
 const me = {
   goesBy: "Eric",
-  age: 31,
+  age: 32,
   pronouns: ["he/him", "they/them"],
   location: {
     town: "Somerset",
@@ -44,10 +44,8 @@ const me = {
 
 - Interface Design and Web Development A.A.S. at Raritan Valley Community College
 
-- 3D Printing
-
-- [The Odin Project](https://www.theodinproject.com/)
-
+- Dabbling in game development
+  
 ---
 
 ### 🔮 Stats:
