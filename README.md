@@ -50,8 +50,6 @@ const me = {
 
 ### 🔮 Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrown8787&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbrown8787&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
