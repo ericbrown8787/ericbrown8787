@@ -45,12 +45,6 @@ const me = {
 - Interface Design and Web Development A.A.S. at Raritan Valley Community College
 
 - Dabbling in game development
-  
----
-
-### 🔮 Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbrown8787&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
